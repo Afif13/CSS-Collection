@@ -7,3 +7,4 @@
  * [100 underline/overlay animations | The advanced CSS collection](https://dev.to/afif/still-100-underline-overlay-animations-the-advanced-css-collection-4mol)
  * [100 CSS loaders](https://dev.to/afif/i-made-100-css-loaders-for-your-next-project-4eje)
  * [Another 100 CSS loaders](https://dev.to/afif/another-100-css-loaders-for-your-next-project-352l)
+ * [100 more CSS loaders](https://dev.to/afif/i-made-100-more-css-loaders-for-your-next-project-4ioa)
