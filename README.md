@@ -8,3 +8,4 @@
  * [100 CSS loaders](https://dev.to/afif/i-made-100-css-loaders-for-your-next-project-4eje)
  * [Another 100 CSS loaders](https://dev.to/afif/another-100-css-loaders-for-your-next-project-352l)
  * [100 more CSS loaders](https://dev.to/afif/i-made-100-more-css-loaders-for-your-next-project-4ioa)
+ * [Still 100 CSS loaders](https://dev.to/afif/still-100-css-loaders-for-your-next-project-57hp)
