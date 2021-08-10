@@ -9,6 +9,10 @@
 ## [100 underline/overlay animations | The advanced CSS collection](https://dev.to/afif/still-100-underline-overlay-animations-the-advanced-css-collection-4mol)
 ![](https://res.cloudinary.com/practicaldev/image/fetch/s--g-MUgcEO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3bxobl6a6d856vfg3zpo.gif)
 
+## [100 underline/overlay animations | The impressive CSS collection](https://dev.to/afif/adding-100-underline-overlay-animations-the-impressive-css-collection-1a93)
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--8w4_8_o---/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g4nfclcucwaplk78f81q.gif)
+
+
 ----
 
 ## [100 CSS loaders](https://dev.to/afif/i-made-100-css-loaders-for-your-next-project-4eje)
